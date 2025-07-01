@@ -1,0 +1,14 @@
+@import url(./reset.css);
+body {
+  max-width: 850px;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

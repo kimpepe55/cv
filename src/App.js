@@ -1,10 +1,12 @@
+import Intro from "./sections/intro/Intro.jsx";
+import data from "./data/cv.json";
 
 function App() {
-  return (
-    <div className="App">
-        Hello, World!
-    </div>
-  );
+    return (
+        <div>
+            <Intro data={data.intro} />
+        </div>
+    );
 }
 
 export default App;
