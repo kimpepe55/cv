@@ -1,0 +1,36 @@
+.skills_container {
+    padding: 0 10px;
+}
+
+.skills_list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 40px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.section_item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.item_content {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.skillBar {
+    width: 100%;
+    height: 5px;
+    border-radius: 7px;
+    background-color: #e0e0e0;
+}
+
+.skillLevel {
+    height: 5px;
+    border-radius: 7px;
+    background-color: black;
+}

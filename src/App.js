@@ -3,6 +3,7 @@ import data from "./data/cv.json";
 import About from "./sections/about/About.jsx";
 import Education from "./sections/education/Education.jsx";
 import Employment from "./sections/employment/Empoyment.jsx";
+import Skills from "./sections/skills/Skills.jsx";
 
 function App() {
     return (
@@ -11,6 +12,7 @@ function App() {
             <About data={data.about} />
             <Education data={data} />
             <Employment data={data} />
+            <Skills data={data} />
         </div>
     );
 }
