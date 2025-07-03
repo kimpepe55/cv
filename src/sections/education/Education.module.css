@@ -10,17 +10,8 @@
     margin-bottom: 30px;
 }
 
-.education_item h3 {
-    opacity: 0.5;
-}
-
-
 .edu_info {
     display: flex;
     flex-direction: column;
     gap: 10px;
-}
-
-.edu_title {
-    font-weight: 700;
 }

@@ -7,10 +7,10 @@ export default function Education({ data }) {
             <h2 className="title">Education</h2>
             <ul>
                 {data.Education.map((education) => (
-                    <li className={styles.education_item}>
-                        <h3>{education.date}</h3>
-                        <div className={styles.edu_info}>
-                            <h2 className={styles.edu_title}>{education.Place}</h2>
+                    <li className="section_item">
+                        <h3 className="item_date">{education.date}</h3>
+                        <div className="item_info">
+                            <h2 className="item_title">{education.Place}</h2>
                             <p>{education.Specialization}</p>
                         </div>
                     </li>
