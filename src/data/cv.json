@@ -26,14 +26,14 @@
     },
     "Education": [
         {
+            "date": "Sep 2003 – Aug 2007",
+            "Place": "University of California, Los Angeles",
+            "Specialization": "Bachelor of Arts in Graphic Design, GPA: 3.6/4.0"
+        },
+        {
             "date": "Sep 2007 – Aug 2012",
             "Place": "New York University",
             "Specialization": "Master of Graphic Design, GPA: 3.8/4.0"
-        },
-        {
-            "datate": "Sep 2003 – Aug 2007",
-            "Place": "University of California, Los Angeles",
-            "Specialization": "Bachelor of Arts in Graphic Design, GPA: 3.6/4.0"
         }
     ],
     "Employment": [

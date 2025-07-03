@@ -15,7 +15,7 @@ body {
 
 p,
 li {
-    opacity: 0.8;
+    opacity: 0.85;
 }
 
 code {
@@ -24,7 +24,9 @@ code {
 }
 
 .title {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 800;
     margin-bottom: 10px;
 }
+
+

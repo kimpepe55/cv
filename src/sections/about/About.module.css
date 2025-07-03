@@ -1,7 +1,9 @@
 .about_container {
     display: flex;
-    padding: 0 10px;
     justify-content: space-between;
+
+    padding: 0 10px;
+    margin-bottom: 25px;
 }
 
 .about_profile {
