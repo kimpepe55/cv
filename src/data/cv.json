@@ -2,5 +2,72 @@
     "intro": {
         "name": "Andrew Bolton",
         "specialization": "WEB-DESIGNER"
-    }
+    },
+    "about": {
+        "Profile": "Graphic designer with +8 years of experience in branding and print design. Skilled at Adobe Creative Suite (Photoshop, Illustrator, InDesign) as well as sketching and hand drawing. Supervised 23 print design projects that resulted in an increase of 32% in savings.",
+        "Contacts": [
+            {
+                "type": "Adress",
+                "value": "2207 Beach Avenue, Los Angeles"
+            },
+            {
+                "type": "Email",
+                "value": "hibolton@got.com"
+            },
+            {
+                "type": "Phone",
+                "value": "(914) 479-6342"
+            },
+            {
+                "type": "Website",
+                "value": "https://andrewbolton.com"
+            }
+        ]
+    },
+    "Education": [
+        {
+            "date": "Sep 2007 – Aug 2012",
+            "Place": "New York University",
+            "Specialization": "Master of Graphic Design, GPA: 3.8/4.0"
+        },
+        {
+            "datate": "Sep 2003 – Aug 2007",
+            "Place": "University of California, Los Angeles",
+            "Specialization": "Bachelor of Arts in Graphic Design, GPA: 3.6/4.0"
+        }
+    ],
+    "Employment": [
+        {
+            "date": "Dec 2012 – Jan 2016",
+            "Place": "UI Designer at Market Studios",
+            "Specialization": "Successfully translated subject matter into concrete design for newsletters, promotional materials and sales collateral. Created design theme and graphics for marketing"
+        },
+        {
+            "date": "Feb 2016 – Apr 2019",
+            "Place": "Graphic Designer at FireWeb",
+            "Specialization": "Developed numerous marketing programs (logos, brochures, newsletters, infographics, presentations) and guaranteed that they exceeded the expectations of our clients"
+        }
+    ],
+    "Skills": [
+        {
+            "name": "Figma",
+            "level": "Expert"
+        },
+        {
+            "name": "Sketch",
+            "level": "Expert"
+        },
+        {
+            "name": "Photoshop",
+            "level": "Proficient"
+        },
+        {
+            "name": "After Effects",
+            "level": "Proficient"
+        },
+        {
+            "name": "Indesign",
+            "level": "Novice"
+        }
+    ]
 }

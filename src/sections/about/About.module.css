@@ -1,0 +1,13 @@
+.about_container {
+    display: flex;
+    padding: 0 10px;
+    justify-content: space-between;
+}
+
+.about_profile {
+    max-width: 48%;
+}
+
+.contact_item {
+    margin-bottom: 10px;
+}
